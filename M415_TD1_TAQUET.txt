@@ -1,0 +1,17 @@
+1. Boucles imbriquées :
+	1 - 25 fois ( à chaque execution de i, on a n exec de j --> ici 5*5 )
+	2 - 10 fois ( 1+2+3+4 )
+	3 - n^2
+	4 - somme des entiers de 0 à n-1 --> (n*(n-1)/2)
+	
+2. Tri de tableau par sélection :
+	1 - 
+		Etape 1 : tab = { 3 , 25 , 50 , 8 , 1 , 3 , 49 }
+		Etape 2 : tab = { 1 , 25 , 50 , 8 , 3 , 3 , 49 }
+		Etape 3 : tab = { 1 , 3 , 50 , 8 , 25 , 3 , 49 }
+		Etape 4 : tab = { 1 , 3 , 3 , 8 , 25 , 50 , 49 }
+		Etape 5 : tab = { 1 , 3 , 3 , 8 , 25 , 49 , 50 }
+	
+	2 - (n*(n-1))/2
+	
+	3 - 
